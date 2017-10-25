@@ -16,7 +16,7 @@ https://github.com/asikart/userxtd-issues/issues
 
 ### Quickcontent
 
-https://github.com/asikart/quickcontent-issues
+https://github.com/asikart/quickcontent-issues/issues
 
 ### Ezset
 
