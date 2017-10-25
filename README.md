@@ -21,3 +21,7 @@ https://github.com/asikart/quickcontent-issues
 ### Ezset
 
 https://github.com/asikart/ezset-issues/issues
+
+### ACE x Markdown Editor
+
+https://github.com/asikart/ace-markdown-editor/issues
